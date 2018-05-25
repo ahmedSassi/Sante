@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Exam.Domain.Entities.Produit_Medicaux>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomProduit_Medicaux)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qantite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prix)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IDAdmin)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomProduit_Medicaux)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qantite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prix)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IDAdmin)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IDProduit_Medicaux }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IDProduit_Medicaux }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IDProduit_Medicaux })
+        </td>
+    </tr>
+}
+
+</table>

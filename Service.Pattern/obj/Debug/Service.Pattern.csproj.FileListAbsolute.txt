@@ -1,0 +1,24 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Service.Pattern.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Service.Pattern.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Exam.Data.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\EntityFramework.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Exam.Data.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\Exam.Domain.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\bin\Debug\EntityFramework.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\obj\Debug\Service.Pattern.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Service.Pattern\bin\Debug\MySql.Data.dll

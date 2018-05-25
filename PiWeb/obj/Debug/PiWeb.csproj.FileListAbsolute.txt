@@ -1,0 +1,104 @@
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\csc.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\vbc.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\PiWeb.dll.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\PiWeb.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\PiWeb.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Service.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Service.Pattern.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\MySql.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Service.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\obj\Debug\PiWeb.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\obj\Debug\PiWeb.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\PiWeb\obj\Debug\PiWeb.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\csc.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\vbc.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\PiWeb.dll.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\PiWeb.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\PiWeb.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Service.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Service.Pattern.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\MySql.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Service.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\obj\Debug\PiWeb.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\obj\Debug\PiWeb.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\PiWeb\obj\Debug\PiWeb.pdb

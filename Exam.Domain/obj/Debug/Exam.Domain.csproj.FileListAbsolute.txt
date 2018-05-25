@@ -1,0 +1,9 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb

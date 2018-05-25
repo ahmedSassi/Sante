@@ -1,0 +1,50 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\Exam.Data.dll.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\Exam.Data.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\Exam.Data.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\EntityFramework.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\Exam.Domain.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\EntityFramework.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\obj\Debug\Exam.Data.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\obj\Debug\Exam.Data.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Data\obj\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\Exam.Data.dll.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\obj\Debug\Exam.Data.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\obj\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\obj\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\MySql.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\obj\Debug\Exam.Data.Migrations.v1.resources
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Data\obj\Debug\Exam.Data.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\Exam.Data.dll.config
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\MySql.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\obj\Debug\Exam.Data.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\obj\Debug\Exam.Data.Migrations.v1.resources
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\obj\Debug\Exam.Data.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\obj\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05 - Copie\Exam\Exam.Data\obj\Debug\Exam.Data.pdb

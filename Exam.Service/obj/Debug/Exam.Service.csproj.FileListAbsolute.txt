@@ -1,0 +1,26 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Service.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Service.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Data.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Service.Pattern.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\EntityFramework.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Data.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Service.Pattern.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\EntityFramework.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Service.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Service.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Service.Pattern.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\EntityFramework.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Data.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\EntityFramework.xml
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\obj\Debug\Exam.Service.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\obj\Debug\Exam.Service.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\obj\Debug\Exam.Service.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\MySql.Data.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Service\bin\Debug\Exam.Domain.pdb
