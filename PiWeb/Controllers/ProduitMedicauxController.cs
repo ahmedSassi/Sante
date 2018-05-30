@@ -45,23 +45,24 @@ namespace PiWeb.Controllers
         // GET: ProduitMedicaux/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var t = pdts.GetById(id);
+            return View(t);
         }
 
         // POST: ProduitMedicaux/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Edit(int id, Produit_Medicaux pdt)
         {
-            try
-            {
-                // TODO: Add update logic here
+            //pdts.Update(pdt);
+            //pdts.Commit();
+            //return RedirectToAction("Index");
 
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
+            //Payment payment = new Payment();
+            //pdt = pdts.GetById(id);
+            //payment.Status = true;
+            ////db.Entry(payment).State = EntityState.Modified;
+            ////db.SaveChanges();
+            return RedirectToAction("Index");
         }
 
         // GET: ProduitMedicaux/Delete/5

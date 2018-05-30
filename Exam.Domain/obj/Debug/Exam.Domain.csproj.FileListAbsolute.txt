@@ -7,3 +7,8 @@ C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin
 C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
 C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
 C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\sante\Exam.Domain\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\sante\Exam.Domain\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\sante\Exam.Domain\obj\Debug\Exam.Domain.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\sante\Exam.Domain\obj\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\sante\Exam.Domain\obj\Debug\Exam.Domain.pdb

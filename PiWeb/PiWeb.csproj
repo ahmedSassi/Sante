@@ -191,6 +191,7 @@
     <Content Include="Views\ProduitMedicaux\Create.cshtml" />
     <Content Include="Views\ProduitMedicaux\Index.cshtml" />
     <Content Include="Views\Shared\myLayout.cshtml" />
+    <Content Include="Views\ProduitMedicaux\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
